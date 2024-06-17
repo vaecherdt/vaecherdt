@@ -1,6 +1,6 @@
 # A little bit about me
-🔭 I’m currently working on a few personal projects using the iOS Development toolkit.<br>
-👨🏼‍💻 I’m currently working on my bachelor's degree in Computer Engineering @ State University of Ponta Grossa. <br>
+🔭 I’m working on a few personal projects using the iOS Development toolkit on my free time.<br>
+👨🏼‍💻 I’m also working on my bachelor's degree in Computer Engineering @ State University of Ponta Grossa. <br>
 🤓 Fun fact: I had my first experience with programming in 2019, on a school project, I built it using Swift and UIKit. <br>
 💖 I'm passionate by art in general - paintings, literature, poetry, music (I love jazz).
 
