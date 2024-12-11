@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 On my free time, I've been studying PHP, Laravel and Vue, while also practicing my native iOS Development Skills.<br>👨🏼‍💻 I’m  working on my bachelor's degree in Computer Engineering @ State University of Ponta Grossa.<br>🧑🏼‍🏫 I teach programming at LionsDev.<br>🤓 Fun fact: I had my first experience with programming in 2019, on a school project, I built it using Swift and UIKit.<br>🎨 I'm passionate by art in general - paintings, literature, poetry, music (I love jazz).
-
+👨🏼‍💻 I’m  working on my bachelor's degree in Computer Engineering @ State University of Ponta Grossa.<br>
+🧑🏼‍🏫 I teach programming with JavaScript and Node at LionsDev.<br>
+🤓 I had my first experience with programming in 2019, on a school project, I built it using Swift and UIKit.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaecherdt/) 
